@@ -1,0 +1,164 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="RpUrb2nFkiBPK_H8eMsu">
+    <mxGraphModel dx="1246" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4hwlAsUEbb31phjpDDOr-49" edge="1" parent="1" source="UCWPcC3h_17MIaDMNugz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="4hwlAsUEbb31phjpDDOr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCWPcC3h_17MIaDMNugz-1" parent="1" style="ellipse;html=1;shape=startState;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="399" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="Consultar disponibilidad" vertex="1">
+          <mxGeometry height="40" width="196" x="316" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-5" edge="1" parent="1" source="4hwlAsUEbb31phjpDDOr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontColor=light-dark(#000000,#000000);fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);" value="No">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="199.9999999999999" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-7" edge="1" parent="1" source="4hwlAsUEbb31phjpDDOr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontColor=light-dark(#000000,#000000);fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);" value="Sí">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="¿Hay equipos disponibles? " vertex="1">
+          <mxGeometry height="90" width="159" x="334" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-43" edge="1" parent="1" source="4hwlAsUEbb31phjpDDOr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.476;exitY=1.024;exitDx=0;exitDy=0;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="4hwlAsUEbb31phjpDDOr-38">
+          <mxGeometry relative="1" x="0.0028" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="370" />
+              <mxPoint x="200" y="1085" />
+            </Array>
+            <mxPoint x="200" y="380" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="Informar que no hay equipos disponibles" vertex="1">
+          <mxGeometry height="50" width="150" x="130" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-12" edge="1" parent="1" source="4hwlAsUEbb31phjpDDOr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="4hwlAsUEbb31phjpDDOr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="Registrar solicitud de préstamo" vertex="1">
+          <mxGeometry height="50" width="196" x="530" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-14" edge="1" parent="1" source="4hwlAsUEbb31phjpDDOr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="4hwlAsUEbb31phjpDDOr-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="Revisar solicitud" vertex="1">
+          <mxGeometry height="50" width="117" x="569.5" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-15" edge="1" parent="1" source="4hwlAsUEbb31phjpDDOr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontColor=light-dark(#000000,#000000);fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);" value="Sí">
+          <mxGeometry relative="1" x="-0.0423" as="geometry">
+            <mxPoint x="-1" as="offset" />
+            <Array as="points">
+              <mxPoint x="780" y="520" />
+              <mxPoint x="780" y="580" />
+            </Array>
+            <mxPoint x="780" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-16" edge="1" parent="1" source="4hwlAsUEbb31phjpDDOr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontColor=light-dark(#000000,#000000);fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);" value="No">
+          <mxGeometry relative="1" x="-0.2642" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="520" />
+              <mxPoint x="480" y="580" />
+            </Array>
+            <mxPoint x="480" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="¿Se aprueba el préstamo?" vertex="1">
+          <mxGeometry height="80" width="117" x="569.5" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-42" edge="1" parent="1" source="4hwlAsUEbb31phjpDDOr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="4hwlAsUEbb31phjpDDOr-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="Registrar rechazo de la solicitud" vertex="1">
+          <mxGeometry height="40" width="134" x="414" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-20" edge="1" parent="1" source="4hwlAsUEbb31phjpDDOr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="4hwlAsUEbb31phjpDDOr-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="Registrar aprobación del préstamo" vertex="1">
+          <mxGeometry height="50" width="140" x="710" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-23" edge="1" parent="1" source="4hwlAsUEbb31phjpDDOr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="4hwlAsUEbb31phjpDDOr-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="Entregar equipo al solicitante" vertex="1">
+          <mxGeometry height="40" width="153.5" x="703.25" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-25" edge="1" parent="1" source="4hwlAsUEbb31phjpDDOr-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="4hwlAsUEbb31phjpDDOr-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-22" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="El solicitante devuelve&lt;div&gt;el equipo&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="134" x="713" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-27" edge="1" parent="1" source="4hwlAsUEbb31phjpDDOr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="4hwlAsUEbb31phjpDDOr-28" value="">
+          <mxGeometry relative="1" x="-0.52" as="geometry">
+            <mxPoint x="780" y="843.5355339059327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-24" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="Inspeccionar estado&lt;div&gt;del equipo&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="720" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-29" edge="1" parent="1" source="4hwlAsUEbb31phjpDDOr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-32" connectable="0" parent="4hwlAsUEbb31phjpDDOr-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontColor=light-dark(#000000,#000000);fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);" value="Sí" vertex="1">
+          <mxGeometry relative="1" x="-0.2257" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-31" edge="1" parent="1" source="4hwlAsUEbb31phjpDDOr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-34" connectable="0" parent="4hwlAsUEbb31phjpDDOr-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontColor=light-dark(#000000,#000000);fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.3836" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-28" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="¿Presenta algún incidente?" vertex="1">
+          <mxGeometry height="80" width="134" x="713" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-40" edge="1" parent="1" source="4hwlAsUEbb31phjpDDOr-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="4hwlAsUEbb31phjpDDOr-38">
+          <mxGeometry relative="1" x="0.116" as="geometry">
+            <mxPoint x="621" y="970" as="sourcePoint" />
+            <mxPoint x="440" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="Registrar devolución sin incidentes" vertex="1">
+          <mxGeometry height="30" width="120" x="550" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-41" edge="1" parent="1" source="4hwlAsUEbb31phjpDDOr-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="4hwlAsUEbb31phjpDDOr-38">
+          <mxGeometry relative="1" x="-0.4834" as="geometry">
+            <mxPoint x="950" y="980" as="sourcePoint" />
+            <mxPoint x="450" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="Registrar devolución con incidente" vertex="1">
+          <mxGeometry height="30" width="120" x="890" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-38" parent="1" style="ellipse;html=1;shape=endState;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="414" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="4hwlAsUEbb31phjpDDOr-47" edge="1" parent="1" source="4hwlAsUEbb31phjpDDOr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Times New Roman;fillColor=light-dark(#6C8EBF,#D4E1F5);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="4hwlAsUEbb31phjpDDOr-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="190" />
+              <mxPoint x="414" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

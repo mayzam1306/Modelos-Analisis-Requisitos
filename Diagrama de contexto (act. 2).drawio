@@ -1,0 +1,74 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="UFjdQDwd7I67NaWOKBsN">
+    <mxGraphModel dx="860" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PWVl3Hk2i3F1rTVR7mfF-4" edge="1" parent="1" source="PWVl3Hk2i3F1rTVR7mfF-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#647687;strokeColor=light-dark(#314354,#001933);startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="PWVl3Hk2i3F1rTVR7mfF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PWVl3Hk2i3F1rTVR7mfF-17" connectable="0" parent="PWVl3Hk2i3F1rTVR7mfF-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontColor=light-dark(#000000,#000000);" value="&lt;font face=&quot;Times New Roman&quot;&gt;Autorización o&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;rechazo&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;del préstamo&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.003" y="1" as="geometry">
+            <mxPoint x="9" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWVl3Hk2i3F1rTVR7mfF-5" edge="1" parent="1" source="PWVl3Hk2i3F1rTVR7mfF-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=0;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.379;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#647687;strokeColor=light-dark(#314354,#001933);startArrow=none;startFill=0;" target="PWVl3Hk2i3F1rTVR7mfF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PWVl3Hk2i3F1rTVR7mfF-16" connectable="0" parent="PWVl3Hk2i3F1rTVR7mfF-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontColor=light-dark(#000000,#000000);" value="&lt;font face=&quot;Times New Roman&quot;&gt;Envío de solicitud&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0064" y="4" as="geometry">
+            <mxPoint x="12" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWVl3Hk2i3F1rTVR7mfF-6" edge="1" parent="1" source="PWVl3Hk2i3F1rTVR7mfF-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.692;entryY=1.047;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#647687;strokeColor=light-dark(#314354,#001933);startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="PWVl3Hk2i3F1rTVR7mfF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PWVl3Hk2i3F1rTVR7mfF-18" connectable="0" parent="PWVl3Hk2i3F1rTVR7mfF-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontColor=light-dark(#000000,#000000);" value="&lt;font face=&quot;Times New Roman&quot;&gt;Registro de&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;devolución&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;e&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;inspección del equipo&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1295" y="1" as="geometry">
+            <mxPoint x="-23" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWVl3Hk2i3F1rTVR7mfF-7" edge="1" parent="1" source="PWVl3Hk2i3F1rTVR7mfF-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#647687;strokeColor=light-dark(#314354,#001933);startArrow=none;startFill=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="PWVl3Hk2i3F1rTVR7mfF-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWVl3Hk2i3F1rTVR7mfF-13" connectable="0" parent="PWVl3Hk2i3F1rTVR7mfF-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontColor=light-dark(#000000,#000000);" value="&lt;font face=&quot;Times New Roman&quot;&gt;Información de&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;disponibilidad&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0966" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWVl3Hk2i3F1rTVR7mfF-8" edge="1" parent="1" source="PWVl3Hk2i3F1rTVR7mfF-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.2;exitY=0;exitDx=0;exitDy=0;entryX=0.984;entryY=0.367;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#647687;strokeColor=light-dark(#314354,#001933);startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="PWVl3Hk2i3F1rTVR7mfF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PWVl3Hk2i3F1rTVR7mfF-10" connectable="0" parent="PWVl3Hk2i3F1rTVR7mfF-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontColor=light-dark(#000000,#000000);" value="&lt;font face=&quot;Times New Roman&quot;&gt;Consulta de&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;disponibilidad&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0198" y="1" as="geometry">
+            <mxPoint x="-4" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWVl3Hk2i3F1rTVR7mfF-9" edge="1" parent="1" source="PWVl3Hk2i3F1rTVR7mfF-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.333;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#647687;strokeColor=light-dark(#314354,#001933);startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="PWVl3Hk2i3F1rTVR7mfF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PWVl3Hk2i3F1rTVR7mfF-15" connectable="0" parent="PWVl3Hk2i3F1rTVR7mfF-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontColor=light-dark(#000000,#000000);" value="&lt;font face=&quot;Times New Roman&quot;&gt;Datos de la&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;solicitud&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;préstamo&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0102" as="geometry">
+            <mxPoint x="18" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWVl3Hk2i3F1rTVR7mfF-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Sistema de préstamo de&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;equipos audiovisuales&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="200" x="320" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PWVl3Hk2i3F1rTVR7mfF-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Solicitante&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PWVl3Hk2i3F1rTVR7mfF-14" edge="1" parent="1" source="PWVl3Hk2i3F1rTVR7mfF-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWVl3Hk2i3F1rTVR7mfF-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#0A0A0A);strokeColor=light-dark(#314354,#000000);" value="&lt;font face=&quot;Times New Roman&quot;&gt;Personal encargado&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
